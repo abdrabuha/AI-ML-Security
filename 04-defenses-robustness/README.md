@@ -1,5 +1,8 @@
 # 🛡️ Project 4 — Defenses & Robustness (Adversarial Training)
 
+> ⭐ **ادعمنا بنجمة:** إذا أعجبك المشروع أو استفدت منه، لا تنسَ أن تمنحنا ⭐ نجمة — دعمك يصنع فرقاً كبيراً!
+> ⭐ **Give us a star:** if you like this project or learned something from it, please give us a ⭐ star — your support means a lot!
+
 > **The Why:** بعد أن رأينا الدقة تنهار تحت FGSM/PGD، نطبّق هنا الدفاع العملي الأشهر — التدريب العدائي — الذي يجعل الموديل "يرى الهجوم أثناء التدريب" فيتعلم مقاومته، ونقيس المفاضلة الحقيقية بين الدقة النظيفة والدقة تحت الهجوم.
 >
 > **The Why (EN):** after watching accuracy collapse under FGSM/PGD, we apply the most practical defense — adversarial training — which makes the model "see the attack during training" and learn to resist it, then measure the real clean-vs-robust trade-off.

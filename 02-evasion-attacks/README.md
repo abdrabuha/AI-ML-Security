@@ -1,5 +1,8 @@
 # ⚔️ Project 2 — Evasion Attacks: FGSM & PGD
 
+> ⭐ **ادعمنا بنجمة:** إذا أعجبك المشروع أو استفدت منه، لا تنسَ أن تمنحنا ⭐ نجمة — دعمك يصنع فرقاً كبيراً!
+> ⭐ **Give us a star:** if you like this project or learned something from it, please give us a ⭐ star — your support means a lot!
+
 > **The Why:** هذا المشروع يريك عملياً لماذا "الثقة العالية" في الشبكات العصبية لا تعني "صحة": تعديل بكسلات بالكاد يُرى يجعل موديل MNIST السليم (97%) ينهار إلى أقل من 10% — عبر هجمتي FGSM و PGD.
 >
 > **The Why (EN):** this project shows you hands-on why high model confidence does not mean correctness: a barely visible pixel tweak collapses a healthy 97% MNIST model to under 10% accuracy — using the FGSM and PGD attacks.

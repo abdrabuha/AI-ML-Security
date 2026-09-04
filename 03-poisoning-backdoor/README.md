@@ -1,5 +1,8 @@
 # 🕳️ Project 3 — Data Poisoning & Backdoors
 
+> ⭐ **ادعمنا بنجمة:** إذا أعجبك المشروع أو استفدت منه، لا تنسَ أن تمنحنا ⭐ نجمة — دعمك يصنع فرقاً كبيراً!
+> ⭐ **Give us a star:** if you like this project or learned something from it, please give us a ⭐ star — your support means a lot!
+
 > **The Why:** هجمات Evasion تحدث بعد التدريب، أما هنا فالسيناريو أخطر: المهاجم يسمّم جزءاً صغيراً من بيانات التدريب (شارة + تسمية مغلوطة) فيتعلم الموديل "باباً خلفياً" سرياً — يبقى دقيقاً على البيانات النظيفة لكن أي صورة تحمل الشارة تُصنَّف حسب رغبة المهاجم.
 >
 > **The Why (EN):** evasion happens after training; this scenario is worse — the attacker poisons a tiny slice of the training data (trigger + wrong label) so the model learns a secret "backdoor": still accurate on clean data, yet any image carrying the trigger is classified as the attacker wishes.

@@ -2,6 +2,9 @@
 
 # 🛡️ AI-ML-Security Learning Series
 
+> ⭐ **ادعمنا بنجمة:** إذا أعجبك المشروع أو استفدت منه، لا تنسَ أن تمنحنا ⭐ نجمة — دعمك يصنع فرقاً كبيراً!
+> ⭐ **Give us a star:** if you like this project or learned something from it, please give us a ⭐ star — your support means a lot!
+
 ### Practical, hands-on notebooks about Adversarial Machine Learning — attacks & defenses on small models.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)

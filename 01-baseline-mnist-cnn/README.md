@@ -1,5 +1,8 @@
 # 🏗️ Project 1 — Baseline: Train a Tiny CNN on MNIST
 
+> ⭐ **ادعمنا بنجمة:** إذا أعجبك المشروع أو استفدت منه، لا تنسَ أن تمنحنا ⭐ نجمة — دعمك يصنع فرقاً كبيراً!
+> ⭐ **Give us a star:** if you like this project or learned something from it, please give us a ⭐ star — your support means a lot!
+
 > **The Why:** قبل أن ندرس هجمات أمن تعلّم الآلة لا بد من "مريض سليم": موديل صغير مدرب على MNIST نعرف دقته النظيفة تماماً — وبه نقارن كل تجربة هجوم أو دفاع في السلسلة. ستتعلم هنا بناء وتدريب CNN صغير مناسب لـ CPU و Colab المجاني، وقراءة "ثقة الموديل" التي ستستغلها الهجمات لاحقاً.
 >
 > **The Why (EN):** before studying ML-security attacks we need a healthy "patient": a small CNN trained on MNIST whose clean accuracy we know exactly — the reference point for every attack/defense experiment in this series. You will learn to build and train a CPU-friendly CNN and read the model confidence that attacks later exploit.
