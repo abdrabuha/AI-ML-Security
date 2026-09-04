@@ -1,0 +1,35 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# ---- Model / training artifacts ----
+*.pt
+*.pth
+*.safetensors
+*.onnx
+checkpoints/
+runs/
+models/
+data/mnist/
+mnist/
+
+# ---- Colab / local secrets ----
+.env
+*.token
+HF_TOKEN
+kaggle.json
+
+# ---- Agent handoff / local memory (contains secrets) ----
+.agent/
+
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
