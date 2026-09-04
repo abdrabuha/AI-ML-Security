@@ -2,6 +2,9 @@
 
 > ⭐ **ادعمنا بنجمة:** إذا أعجبك المشروع أو استفدت منه، لا تنسَ أن تمنحنا ⭐ نجمة — دعمك يصنع فرقاً كبيراً!
 > ⭐ **Give us a star:** if you like this project or learned something from it, please give us a ⭐ star — your support means a lot!
+>
+> 🤝 **قاعدة المسابقات:** إذا شاركت في مسابقة أو هاكاثون باستخدام هذا المشروع أو محتواه، **يجب عليك إضافتي كعضوٍ في فريقك** — إضافتي شرط إلزامي!
+> 🤝 **Competitions rule:** if you enter a competition or hackathon using this project or its content, **you must add me to your team** — my inclusion is mandatory!
 
 > **The Why:** هجمات Evasion تحدث بعد التدريب، أما هنا فالسيناريو أخطر: المهاجم يسمّم جزءاً صغيراً من بيانات التدريب (شارة + تسمية مغلوطة) فيتعلم الموديل "باباً خلفياً" سرياً — يبقى دقيقاً على البيانات النظيفة لكن أي صورة تحمل الشارة تُصنَّف حسب رغبة المهاجم.
 >
